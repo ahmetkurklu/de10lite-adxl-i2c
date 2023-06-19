@@ -6,7 +6,7 @@ As part of our joint design course in GE5A at Polytech Clermont, we have been ap
 ## Architecture
 The architecture I designed using Paint includes the following components:
 
-[Lab3 Architecture](https://user-images.githubusercontent.com/24780090/213120076-4c1e3f18-3208-48f5-9a04-559f55001bc2.png)
+![image](https://user-images.githubusercontent.com/24780090/213120076-4c1e3f18-3208-48f5-9a04-559f55001bc2.png)
 
 - Clock
 - RAM
